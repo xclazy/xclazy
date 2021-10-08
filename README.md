@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### ⚡ 技术栈
 
 ![Css](https://img.shields.io/badge/-Css-29beb0?style=plastice&logo=css3&labelColor=ffffff&color=294E80)
-![Javascript](https://img.shields.io/badge/-JavaScript-yellow?style=plasticee&logo=JavaScript&labelColor=f7df1e)
+![Javascript](https://img.shields.io/badge/-JavaScript-yellow?style=plastice&logo=JavaScript&labelColor=f7df1e&color=000)
 ![Typescript](https://img.shields.io/badge/-Typescript-29beb0?style=plastice&logo=TypeScript&labelColor=ffffff&color=294E80)
 ![Vue](https://img.shields.io/badge/-Vue.js-29beb0?style=plastice&logo=vue.js&labelColor=ffffff&color=4FC08D)
 ![React](https://img.shields.io/badge/-React-blue?style=plastice&logo=React&labelColor=ffffff&color=61DAFB)
