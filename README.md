@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 * 小全栈, 主攻web前端, 对原型绘制/UI设计/后端开发都略有经验.
 * 设计图高保真还原, 可不依赖ui框架写各种样式.
 * 编写过常用ui组件库, 代码书写高耦合, 通用性强.
-* antd+react+egg, 一人独立设计开发前端监控系统.
+* antd+react+egg, 独立设计开发监控系统.
 * 实际项目中运用过echart/taro/uniapp等技术.
 
 ### 😄 现阶段工作
@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 ![Egg.js](https://img.shields.io/badge/-Egg.js-green?style=plastice&logo=Node.js&labelColor=ffffff&logoColor=339933)
 ![Mongoose.js](https://img.shields.io/badge/-Mongoose-47A248?style=plastice&logo=MongoDB&labelColor=ffffff&logoColor=339933)
 
+
 ----------------------------------
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=xclazy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 <!-- 
