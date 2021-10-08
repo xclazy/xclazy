@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 ### 😄 现阶段工作
 * 广州某互联网公司打工~
-  1. 商业活动/app内嵌功能模块开发，类型包括抽奖活动、数据图表、画板绘图、海报生成、表单填写、手势监听等
-  2. 微信公众号/小程序开发
-  3. ui组件/常用代码封装成库
-  4. 独立负责监控系统全栈开发
+  - 商业活动/app内嵌功能模块开发，类型包括抽奖活动、数据图表、画板绘图、海报生成、表单填写、手势监听等
+  - 微信公众号/小程序开发
+  - ui组件/常用代码封装成库
+  - 独立负责监控系统全栈开发
 
 ### ⚡ 技术栈
 
@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 ![Javascript](https://img.shields.io/badge/-JavaScript-e5cd0c?style=plastice&logo=JavaScript&labelColor=ffffff&logoColor=000)
 ![ES6](https://img.shields.io/badge/-ES6-F7DF1E?style=plastice&logo=JavaScript&labelColor=ffffff&logoColor=000)
 ![Typescript](https://img.shields.io/badge/-Typescript-29beb0?style=plastice&logo=TypeScript&labelColor=ffffff&color=294E80)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=plastice&logo=Webpack&labelColor=ffffff&logoColor=8DD6F9)
 ![React](https://img.shields.io/badge/-React-blue?style=plastice&logo=React&labelColor=ffffff&color=61DAFB)
 ![Vue](https://img.shields.io/badge/-Vue.js-29beb0?style=plastice&logo=vue.js&labelColor=ffffff&color=4FC08D)
 ![%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F](https://img.shields.io/badge/-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F-07C160?style=plastice&logo=WeChat&labelColor=ffffff&logoColor=07C160)
@@ -44,7 +43,9 @@ Here are some ideas to get you started:
 ![Egg.js](https://img.shields.io/badge/-Egg.js-green?style=plastice&logo=Node.js&labelColor=ffffff&logoColor=339933)
 ![Mongoose.js](https://img.shields.io/badge/-Mongoose-47A248?style=plastice&logo=MongoDB&labelColor=ffffff&logoColor=339933)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xclazy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+----------------------------------
+
+<img src="https://github-readme-stats.vercel.app/api?username=xclazy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 <!-- 
 ###  📫 2021目标
 * leetcode 100 题
