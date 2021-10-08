@@ -24,14 +24,16 @@ Here are some ideas to get you started:
 * 2012 毕业参加工作🌱
 
 ### 😄 现阶段工作
-<!-- * 江苏某个小城市某个单位打工~ -->
+* 广州某互联网公司打工~
+ - 日常工作：
 
 ### ⚡ 技术栈
 
-![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=plasticee&logo=JavaScript&labelColor=f7df1e&logoColor=000)
-![](https://img.shields.io/badge/-Typescript-29beb0?style=plastice&logo=TypeScript&labelColor=ffffff&color=294E80)
-![](https://img.shields.io/badge/-Vue.js-29beb0?style=plastice&logo=vue.js&labelColor=ffffff&color=4FC08D)
-![](https://img.shields.io/badge/-React-29beb0?style=plastice&logo=React&labelColor=ffffff&color=61DAFB)
+![Css](https://img.shields.io/badge/-Css-29beb0?style=plastice&logo=css3&labelColor=ffffff&color=294E80)
+![Javascript](https://img.shields.io/badge/-JavaScript-yellow?style=plasticee&logo=JavaScript&labelColor=f7df1e)
+![Typescript](https://img.shields.io/badge/-Typescript-29beb0?style=plastice&logo=TypeScript&labelColor=ffffff&color=294E80)
+![Vue](https://img.shields.io/badge/-Vue.js-29beb0?style=plastice&logo=vue.js&labelColor=ffffff&color=4FC08D)
+![React](https://img.shields.io/badge/-React-blue?style=plastice&logo=React&labelColor=ffffff&color=61DAFB)
 
 <!-- 
 ###  📫 2021目标
