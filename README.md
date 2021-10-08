@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xclazy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
 <!-- 
 **xclazy/xclazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,10 +25,10 @@ Here are some ideas to get you started:
 
 ### 😄 现阶段工作
 * 广州某互联网公司打工~
-    1. 商业活动/app内嵌功能模块开发，类型包括抽奖活动、数据图表、画板绘图、海报生成、表单填写、手势监听等
-    2. 微信公众号/小程序开发
-    3. ui组件/常用代码封装成库
-    4. 独立负责监控系统全栈开发
+  1. 商业活动/app内嵌功能模块开发，类型包括抽奖活动、数据图表、画板绘图、海报生成、表单填写、手势监听等
+  2. 微信公众号/小程序开发
+  3. ui组件/常用代码封装成库
+  4. 独立负责监控系统全栈开发
 
 ### ⚡ 技术栈
 
@@ -46,6 +44,7 @@ Here are some ideas to get you started:
 ![Egg.js](https://img.shields.io/badge/-Egg.js-green?style=plastice&logo=Node.js&labelColor=ffffff&logoColor=339933)
 ![Mongoose.js](https://img.shields.io/badge/-Mongoose-47A248?style=plastice&logo=MongoDB&labelColor=ffffff&logoColor=339933)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xclazy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 <!-- 
 ###  📫 2021目标
 * leetcode 100 题
