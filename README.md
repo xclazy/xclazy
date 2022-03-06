@@ -53,12 +53,12 @@ Here are some ideas to get you started:
 
   前四个技术框架: Taro / react / Typescript, 其他使用原生小程序语言
  
-  <img width="100" src="./static/images/qrcode/1.jpg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="100" src="./static/images/qrcode/2.jpg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="100" src="./static/images/qrcode/3.jpg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="100" src="./static/images/qrcode/4.jpg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="100" src="./static/images/qrcode/5.jpg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="100" src="./static/images/qrcode/6.jpg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="100" src="./static/images/qrcode/1.jpg" />&nbsp;&nbsp;&nbsp;
+  <img width="100" src="./static/images/qrcode/2.jpg" />&nbsp;&nbsp;&nbsp;
+  <img width="100" src="./static/images/qrcode/3.jpg" />&nbsp;&nbsp;&nbsp;
+  <img width="100" src="./static/images/qrcode/4.jpg" />&nbsp;&nbsp;&nbsp;
+  <img width="100" src="./static/images/qrcode/5.jpg" />&nbsp;&nbsp;&nbsp;
+  <img width="100" src="./static/images/qrcode/6.jpg" />&nbsp;&nbsp;&nbsp;
   <img width="100" src="./static/images/qrcode/8.jpg" />
 
 * web項目
