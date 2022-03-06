@@ -44,14 +44,6 @@ Here are some ideas to get you started:
 
 ### 🌱 项目经验
 
-* 前端監控系統
-
-  更新中...
- 
-* 通用插件
-
-  更新中...
-
 * 微信小程序
 
   前四个技术框架: Taro / React / Typescript, 其他使用原生小程序语言
@@ -68,11 +60,18 @@ Here are some ideas to get you started:
   技术框架: Vue2 / React + Typescript, 不使用ui框架.
   ⬇️⬇️ 部分web项目录屏
 
-  <img width="240" src="./static/gif/1.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="240" src="./static/gif/2.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="240" src="./static/gif/3.gif" /><br/>
-  <img width="240" src="./static/gif/4.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="240" src="./static/gif/5.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="240" src="./static/gif/6.gif" /><br/>
-  <img width="240" src="./static/gif/7.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="240" src="./static/gif/8.gif" />
+  <img width="250" src="./static/gif/1.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="250" src="./static/gif/2.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="250" src="./static/gif/3.gif" /><br/>
+  <img width="250" src="./static/gif/4.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="250" src="./static/gif/5.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="250" src="./static/gif/6.gif" /><br/>
+  <img width="250" src="./static/gif/7.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="250" src="./static/gif/8.gif" />
 
 
+* 前端監控系統
+
+  更新中...
+ 
+* 通用插件
+
+  更新中...
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=xclazy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
