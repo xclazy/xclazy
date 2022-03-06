@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 * 常使用掘金、力扣、FCC等技术平台, 保持学习完善技能.
 * 技术倾向: React / Typescript / ES6 / Taro / Css / 微信小程序.
 
+
 ### 💻 现阶段工作
 * 广州某互联网公司打工~
   - 独立负责各类业务项目的前端部分, 上线了30+web项目及近10个微信小程序, 功能包括数据展示、支付、登录鉴权、交互动效、图表绘制、海报生成及表单填写等, 主要使用Vue2 / React / Taro等框架.
@@ -38,6 +39,8 @@ Here are some ideas to get you started:
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=plastice&logo=Webpack&labelColor=ffffff&logoColor=8DD6F9)
 ![Egg.js](https://img.shields.io/badge/-Egg.js-green?style=plastice&logo=Node.js&labelColor=ffffff&logoColor=339933)
 ![Mongoose.js](https://img.shields.io/badge/-Mongoose-47A248?style=plastice&logo=MongoDB&labelColor=ffffff&logoColor=339933) -->
+
+
 
 ### 🌱 项目经验
 
@@ -69,7 +72,7 @@ Here are some ideas to get you started:
   <img width="240" src="./static/gif/4.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="240" src="./static/gif/5.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="240" src="./static/gif/6.gif" /><br/>
   <img width="240" src="./static/gif/7.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="240" src="./static/gif/8.gif" />
 
-----------------------------------
+
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=xclazy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
