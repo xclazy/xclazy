@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 * 微信小程序
 
-  前四个技术框架: Taro / react / Typescript, 其他使用原生小程序语言
+  前四个技术框架: Taro / React / Typescript, 其他使用原生小程序语言
  
   <img width="100" src="./static/images/qrcode/1.jpg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="100" src="./static/images/qrcode/2.jpg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 * web項目
 
-  技术框架: vue2 / react + Typescript, 不使用ui框架.
+  技术框架: Vue2 / React + Typescript, 不使用ui框架.
   ⬇️⬇️ 部分web项目录屏
 
   <img width="240" src="./static/gif/1.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="240" src="./static/gif/2.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="240" src="./static/gif/3.gif" /><br/>
