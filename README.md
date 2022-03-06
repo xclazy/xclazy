@@ -50,13 +50,21 @@ Here are some ideas to get you started:
   更新中...
 
 * 微信小程序
+
+  前四个技术框架: Taro / react / Typescript, 其他使用原生小程序语言
  
-  更新中...
+  <img width="120" src="./static/images/qrcode/1.jpg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="120" src="./static/images/qrcode/2.jpg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="120" src="./static/images/qrcode/3.jpg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="120" src="./static/images/qrcode/4.jpg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="120" src="./static/images/qrcode/5.jpg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="120" src="./static/images/qrcode/6.jpg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="120" src="./static/images/qrcode/8.jpg" />
 
 * web項目
 
-  技术框架: vue2 / react / Typescript, 不使用ui框架.
-  部分web项目录屏 ⬇️⬇️
+  技术框架: vue2 / react + Typescript, 不使用ui框架.
+  ⬇️⬇️ 部分web项目录屏
 
   <img width="220" src="./static/gif/1.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="220" src="./static/gif/2.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="220" src="./static/gif/3.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="220" src="./static/gif/4.gif" />
   <img width="220" src="./static/gif/5.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="220" src="./static/gif/6.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="220" src="./static/gif/7.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="220" src="./static/gif/8.gif" />
