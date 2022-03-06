@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
 
-### 💻 关于我
+### 😄 关于我
 * 2012 毕业参加工作🌱
 * 小全栈, 主攻web前端, 对原型设计/Node后端开发有实际项目经验.
 * 设计图高保真还原, 不依赖UI框架编写各类界面. 开发过多主题UI组件库, 代码书写低耦合, 注重性能优化.
 * 常使用掘金、力扣、FCC等技术平台, 保持学习完善技能.
-* 技术倾向: React / Typescript / ES6 / Taro / Css / vue / 微信小程序.
+* 技术倾向: React / Typescript / ES6 / Taro / Css / 微信小程序.
 
-### 😄 现阶段工作
+### 💻 现阶段工作
 * 广州某互联网公司打工~
   - 独立负责各类业务项目的前端部分, 上线了30+web项目及近10个微信小程序, 功能包括数据展示、支付、登录鉴权、交互动效、图表绘制、海报生成及表单填写等, 主要使用Vue2 / React / Taro等框架.
   - 封装团队内常用的功能模块, 如多主题通用组件、Taro/vue2通用模版及axios二次封装等.
@@ -39,13 +39,32 @@ Here are some ideas to get you started:
 ![Egg.js](https://img.shields.io/badge/-Egg.js-green?style=plastice&logo=Node.js&labelColor=ffffff&logoColor=339933)
 ![Mongoose.js](https://img.shields.io/badge/-Mongoose-47A248?style=plastice&logo=MongoDB&labelColor=ffffff&logoColor=339933) -->
 
-### 项目经验
+### 🌱 项目经验
 
+* 前端監控系統
+
+  更新中...
+ 
+* 通用插件
+
+  更新中...
+
+* 微信小程序
+ 
+  更新中...
+
+* web項目
+
+  技术框架: vue2 / react / Typescript, 不使用ui框架.
+  部分web项目录屏 ⬇️⬇️
+
+  <img width="220" src="./static/gif/1.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="220" src="./static/gif/2.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="220" src="./static/gif/3.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="220" src="./static/gif/4.gif" />
+  <img width="220" src="./static/gif/5.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="220" src="./static/gif/6.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="220" src="./static/gif/7.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="220" src="./static/gif/8.gif" />
 
 ----------------------------------
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=xclazy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=xclazy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
 <!-- 
 ###  📫 2021目标
 * leetcode 100 题
