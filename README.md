@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 * web項目
 
   技术框架: Vue2 / React + Typescript, 不使用ui框架.
-  ⬇️⬇️ 部分web项目录屏
+  ⬇️⬇️ 部分web项目录屏, 共8个, 加载较慢请见谅.
 
   <img width="250" src="./static/gif/1.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="250" src="./static/gif/2.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="250" src="./static/gif/3.gif" /><br/>
   <img width="250" src="./static/gif/4.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="250" src="./static/gif/5.gif" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="250" src="./static/gif/6.gif" /><br/>
